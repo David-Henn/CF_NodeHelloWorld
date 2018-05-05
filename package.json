@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "name": "cftest_app",
+  "description": "Cloud Foundry NodeJS Test",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "9.8.0",
+    "npm": "5.6.0"
+  }
+}

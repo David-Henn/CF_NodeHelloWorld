@@ -1,0 +1,5 @@
+---
+applications:
+- name: CF_Test
+  memory: 64M
+  instances: 1
